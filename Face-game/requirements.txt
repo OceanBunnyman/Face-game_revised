@@ -1,0 +1,5 @@
+opencv-python==4.9.0.80
+deepface==0.0.89
+tf-keras==2.16.0
+numpy==1.26.4
+pygame==2.5.2
